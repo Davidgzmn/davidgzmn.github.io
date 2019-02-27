@@ -1,8 +1,6 @@
 *{
-    margin:0;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 100;
-    letter-spacing: .5em;
+    color: white;
+    background-color: black;
 }
 body,html{
     height: 100%;
